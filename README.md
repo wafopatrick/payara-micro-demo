@@ -25,7 +25,7 @@
 ## How to run
 
 1. Clone this repository
-2. Run `docker build -t demo-payara-micro .` in the root directory of the repository
+2. Run `docker build -t demo-jakartaee-rest-service .` in the root directory of the repository
 3. Run `docker-compose up -d` in the root directory of the repository
 
 ## How to test
